@@ -45,8 +45,8 @@ Recette :
 
 | Élément | Version |
 |----------|----------|
-| **Minecraft** | 1.21.4 |
-| **Mod Loader** | NeoForge / Forge |
+| **Minecraft** | 1.20.1 |
+| **Mod Loader** |  Forge |
 | **Créé avec** | MCreator |
 
 ---
