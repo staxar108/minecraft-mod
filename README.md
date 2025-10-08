@@ -1,7 +1,32 @@
-minecraft mod for op pickaxe 
-what you need for create this pickaxe : 
-3 netherite blocks
-2 netherite stick
-how to create netherite stick ? you need 2 netherite ingot.
-this pickaxe has 99 999 durability and 300 damage attack
-instant break all blocks and right click give haste 255 for 30 seconds !!!
+
+---
+
+## ⚔️ OP Pickaxe Stats
+
+| Attribute | Value |
+|------------|--------|
+| **Durability** | 99,999 |
+| **Attack Damage** | 300 |
+| **Mining Speed** | Instant (breaks all blocks instantly) |
+| **Special Ability (Right-Click)** | Grants **Haste 255** for **30 seconds** |
+
+---
+
+## 🧰 Compatibility
+
+| Feature | Version |
+|----------|----------|
+| **Minecraft** | 1.20.1 |
+| **Mod Loader** | Forge |
+| **Created with** | MCreator |
+
+---
+
+## 🧙 Author
+
+Developed by **staxar**  
+A simple mod that turns mining into pure destruction.
+
+---
+
+> *Unbreakable. Unstoppable. The ultimate pickaxe of the Nether.*
