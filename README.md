@@ -1,3 +1,29 @@
+# 💎 OP Pickaxe Mod
+
+**OP Pickaxe Mod** adds an insanely powerful custom pickaxe to Minecraft —  
+crafted from **Netherite Blocks** and **Netherite Sticks**, built for those who want *absolute power!*
+
+---
+
+## ⚒️ Crafting the OP Pickaxe
+
+### 🧱 Recipe
+To craft the **OP Pickaxe**, you will need:
+
+- **3× Netherite Blocks**  
+- **2× Netherite Sticks**
+
+Craft them in the standard pickaxe shape on a crafting table:
+
+
+---
+
+## 🔩 How to Craft a Netherite Stick
+
+To make a **Netherite Stick**, combine:
+
+- **2× Netherite Ingots**
+
 
 ---
 
